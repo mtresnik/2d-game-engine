@@ -9,8 +9,8 @@
       <type>DYNAMIC</type>
       <MASK>PLAYER</MASK>
       <location>
-        <x>-2.2228217</x>
-        <y>1.0149997</y>
+        <x>-5.2956123</x>
+        <y>1.4519295</y>
       </location>
       <dimensions>
         <width>1.0</width>
@@ -43,8 +43,8 @@
         <type>DYNAMIC</type>
         <MASK>ENTITY</MASK>
         <location>
-          <x>-4.701422</x>
-          <y>0.06069714</y>
+          <x>-5.2782903</x>
+          <y>0.49692976</y>
         </location>
         <dimensions>
           <width>1.0</width>
