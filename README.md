@@ -26,11 +26,20 @@ In the second version of the game engine, users can:
 - Handle sound events and display events
 - Use z-filtering for objects that are closer to the screen (creates illusion of depth)
 
-<br>
--
 #Some Examples of this Game Engine:
+*Note: I also made the textures used in i++ and Logan's Game*
+<br>
+
 - i++ (v1)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/i%2B%2B/level1.PNG)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/i%2B%2B/level2.PNG)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/i%2B%2B/level3.PNG)
 
 - Logan's Game (v1) (I made this for a friend's Birthday)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/logans_game/livingroom.PNG)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/logans_game/pizza.PNG)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/logans_game/elevatordown.PNG)
 
 - Live Editor (v2)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/live_editor/editor.PNG)
+![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/live_editor/z-filtering.PNG)
