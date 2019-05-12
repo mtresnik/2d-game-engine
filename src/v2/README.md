@@ -13,8 +13,7 @@ In the this version of the game engine, users can:
 - Handle keyboard events and mouse events
 - Handle sound events and display events
 - Use z-filtering for objects that are closer to the screen (creates illusion of depth)
-<br>
--
+
 ## An Example of this Game Engine: ##
 
 - Live Editor

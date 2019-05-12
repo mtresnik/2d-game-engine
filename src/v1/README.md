@@ -12,8 +12,7 @@ In this version of the engine, users can:
 - Handle keyboard events and mouse events
 - Handle sound events and display events
 - Extend from the GameController class to create a new Game
-<br>
--
+
 ## Some Examples of this Engine: ##
 *Note: I also made the textures used in i++ and Logan's Game*
 
