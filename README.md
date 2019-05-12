@@ -26,7 +26,7 @@ In the second version of the game engine, users can:
 - Handle sound events and display events
 - Use z-filtering for objects that are closer to the screen (creates illusion of depth)
 
-#Some Examples of this Game Engine:
+## Some Examples of this Game Engine: ##
 *Note: I also made the textures used in i++ and Logan's Game*
 <br>
 

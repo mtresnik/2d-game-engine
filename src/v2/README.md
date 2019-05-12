@@ -15,7 +15,7 @@ In the this version of the game engine, users can:
 - Use z-filtering for objects that are closer to the screen (creates illusion of depth)
 <br>
 -
-#An Example of this Game Engine:
+## An Example of this Game Engine: ##
 
 - Live Editor
 ![](https://github.com/mtresnik/2d-game-engine/blob/master/src/example_games/screenshots/live_editor/editor.PNG)

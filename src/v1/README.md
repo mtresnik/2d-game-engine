@@ -14,7 +14,7 @@ In this version of the engine, users can:
 - Extend from the GameController class to create a new Game
 <br>
 -
-# Some Examples of this Engine:
+## Some Examples of this Engine: ##
 *Note: I also made the textures used in i++ and Logan's Game*
 
 - i++
