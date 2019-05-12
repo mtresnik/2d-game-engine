@@ -1,0 +1,13 @@
+TODO
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[x] + Add entity support
+[x] + Add ModifyGetEvent to Playerwindow.
+[x] + Add names to all gameobjects
+[x] + Add data transfer between the game and editor.
+[x] + Add editor menus for adding objects
+[x] ~ Modify DrawTexture to have multiple frames
+[o] + Generate objects based on a parametric instead of points.
+[o] + New - Add Interaction Events / Radii
+[o] + Update - Add Animation states.
+[o] + New - Add stage layering
+[o] + New - Add font rendering

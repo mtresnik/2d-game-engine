@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<structures>
+  <structure>
+    <dimensions>
+      <width>100.0</width>
+      <height>5.0</height>
+    </dimensions>
+    <coordinates>
+      <x>2.0</x>
+      <y>2.0</y>
+    </coordinates>
+    <file_location>blue.png</file_location>
+  </structure>
+</structures>
